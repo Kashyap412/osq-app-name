@@ -1,31 +1,803 @@
-ApplicationName
-Burp Suite Community Edition 2021.10.3
-Bandicam MPEG-1 Decoder
-Black Ice ColorPlus Driver
-CherryTree version
-Conexant HD Audio
-Epic Games Launcher Prerequisites
-Epic Privacy Browser
-Exif Data Viewer
-FileZilla Server
-Free Download Manager
-GFI LanGuard
-GFI LanGuard Agent
-Google Update Helper
-GoTo Opener
-IIS Express
-Intel
-Internet Download Accelerator version
-Java Update
-Java(TM) SE Development Kit
-MicrosoftNET Core Templates
-MicrosoftNET Core Runtime -
-MicrosoftNET Framework SDK
-MicrosoftNET Standard Targeting Pack -
-MicrosoftNET Targeting Pack -
-Windows PC Health Check
-WinHex
-Windows Driver Package - Lenovo (WUDFRd) LenovoVhid
-WhatsApp
-VMware Player
-VLC media player
+name,publisher,custum cpe
+Oracle VM VirtualBox Guest Additions 6.1.30,Oracle Corporation,cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*
+Windows XP Service Pack 2,Microsoft Corporation,cpe:2.3:a:microsoft:windows_xp:*:*:*:*:*:*:*:*
+Notepad++,,cpe:2.3:a:notepad-plus-plus:notepad\+\+:*:*:*:*:*:*:*:*
+Docker Desktop,Docker Inc.,cpe:2.3:a:desktop:docker_desktop:*:*:*:*:*:*:*:*
+Git,The Git Development Community,cpe:2.3:a:git:git:*:*:*:*:*:*:*:*
+Notepad++ (64-bit x64),Notepad++ Team,cpe:2.3:a:notepad-plus-plus:notepad\+\+:*:*:*:*:*:*:*:*
+Microsoft 365 - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office_365:*:*:*:*:*:*:*:*
+Python 3.10.4 pip Bootstrap (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.4 Core Interpreter (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Intel(R) Chipset Device Software,Intel Corporation,cpe:2.3:a:intel:chipset_device_software:*:*:*:*:*:*:*:*
+Node.js,Node.js Foundation,cpe:2.3:a:nodejs:nodejs:*:*:*:*:*:*:*:*
+Oracle VM VirtualBox 6.1.32,Oracle Corporation,"cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*
+"
+Python 3.10.4 Add to Path (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.4 Development Libraries (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Installer,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Python 3.10.4 Utility Scripts (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Office 16 Click-to-Run Licensing Component,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Office 16 Click-to-Run Extensibility Component,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Office 16 Click-to-Run Localization Component,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+MongoDB 5.0.6 2008R2Plus SSL (64 bit),MongoDB Inc.,cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:*:*:*
+Python 3.10.4 Test Suite (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.31.31103,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.31.31103,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+NVIDIA Graphics Driver 462.30,NVIDIA Corporation,cpe:2.3:a:nvidia:binary_graphics_driver:*:*:*:*:*:*:*:*
+NVIDIA GeForce Experience 3.20.4.14,NVIDIA Corporation,cpe:2.3:a:nvidia:geforce_experience:*:*:*:*:*:*:*:*
+NVIDIA SHIELD Streaming,NVIDIA Corporation,cpe:2.3:a:nvidia:shield_experience:*:*:*:*:*:*:*:*
+Windows Subsystem for Linux WSLg Preview,Microsoft Corporation,cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:*:*:*
+Python 3.10.4 Tcl/Tk Support (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.4 Documentation (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Windows Subsystem for Linux Update,Microsoft Corporation,cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:*:*:*
+Python 3.10.4 Executables (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.4 Standard Library (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Google Chrome,Google LLC,cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*
+Microsoft Edge,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Edge Update,,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Edge WebView2 Runtime,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+McAfee LiveSafe,"McAfee, LLC",cpe:2.3:a:mcafee:livesafe:*:*:*:*:*:*:*:*
+Lenovo Vantage Service,Lenovo Group Ltd.,cpe:2.3:a:lenovo:vantage:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+WebAdvisor by McAfee,"McAfee, LLC",cpe:2.3:mcafee:webadvisor:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python Launcher,Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Intel(R) Chipset Device Software,Intel(R) Corporation,cpe:2.3:intel:chipset_device_software:*:*:*:*:*:*:*:*
+MobaXterm,Mobatek,cpe:2.3:mobatek:mobaxterm:*:*:*:*:*:*:*:*
+MongoDB Compass,MongoDB Inc,cpe:2.3:mongodb:compass:*:*:*:*:*:*:*:*
+Microsoft OneDrive,Microsoft Corporation,cpe:2.3:a:microsoft:onedrive:*:*:*:*:*:*:*:*
+Python 3.10.4 (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Code (User),Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+7-Zip 15.05 beta x64,,cpe:2.3:a:7-Zip:7-Zip:*:*:*:*:*:*:*:*
+Notepad++ (64-bit x64),Notepad++ Team,cpe:2.3:a:notepad-plus-plus:notepad\ \:*:*:*:*:*:*:*:*
+Sublime Text 3,Sublime HQ Pty Ltd,cpe:2.3:a:sublimetext:sublime_text_3:*:*:*:*:*:*:*:*
+Vim 8.1 (self-installing),,cpe:2.3:a:vim:vim:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.30.30708,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2010 x64 Redistributable - 10.0.40219,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python 3.7.9 Utility Scripts (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Java 8 Update 311 (64-bit),Oracle Corporation,cpe:2.3:a:oracle:java:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python 3.7.9 pip Bootstrap (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Office Office 64-bit Components 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Shared 64-bit MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Windows SDK DirectX x64 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Google Chrome,Google LLC,cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*
+Python 2.7.18 (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2005 Redistributable (x64),Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.30.30708,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python 3.7.9 Executables (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python 3.7.9 Documentation (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Autopsy,The Sleuth Kit,cpe:2.3:a:the_sleuth_kit:the_sleuth_kit:*:*:*:*:*:*:*:*
+Node.js,Node.js Foundation,cpe:2.3:a:nodejs:nodejs:*:*:*:*:*:*:*:*
+Python 3.7.9 Test Suite (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.7.9 Tcl/Tk Support (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Code,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Python 3.7.9 Core Interpreter (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.7.9 Add to Path (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2017 X64 Debug Runtime - 14.16.27033,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python 3.7.9 Standard Library (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Visual Studio Build Tools 2017,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft Office Enterprise 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office_2007:*:*:*:*:*:*:*:*
+Graphviz,Graphviz,cpe:2.3:a:graphviz:graphviz:*:*:*:*:*:*:*:*
+Nmap 7.70,Nmap Project,cpe:2.3:a:nmap:nmap:*:*:*:*:*:*:*:*
+Npcap 0.99-r2,Nmap Project,cpe:2.3:a:nmap:npcap:*:*:*:*:*:*:*:*
+Wireshark 3.6.1 64-bit,"The Wireshark developer community, https://www.wireshark.org",cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Setup WMI Provider,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+SDK ARM Additions,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Python 2.7.15,Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Setup Configuration,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK AddOn,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Java 8 Update 311,Oracle Corporation,cpe:2.3:a:oracle:java:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft Corporations,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs arm,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Java Auto Updater,Oracle Corporation,cpe:2.3:a:oracle:java:*:*:*:*:*:*:*:*
+SDK ARM Redistributables,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows App Certification Kit SupportedApiList x86,Microsoft Corporation,
+Windows SDK Desktop Libs arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30708,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2017 X86 Debug Runtime - 14.16.27033,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Signing Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Redistributables,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2005 Redistributable,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+WinRT Intellisense PPI - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Office Access MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Excel MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office PowerPoint MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Publisher MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Outlook MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Word MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Proof (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Proof (French) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Proof (Spanish) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Proofing (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Enterprise 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office InfoPath MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Shared MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office OneNote MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office_onenote:*:*:*:*:*:*:*:*
+Microsoft Office Groove MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Groove Setup Metadata MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Shared Setup Metadata MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft Office Access Setup Metadata MUI (English) 2007,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+SDK Debuggers,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Managed Apps Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Metadata,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Team Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Tools,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Modern Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30708,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Facade Windows WinMD Versioned,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal General MIDI DLS Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30708,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Python Launcher,Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+WinRT Intellisense IoT - Other Languages,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK ARM Desktop Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30708,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2010 x86 Redistributable - 10.0.40219,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Team Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Modern Non-Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Git,The Git Development Community,cpe:2.3:a:git:git:*:*:*:*:*:*:*:*
+Microsoft 365 - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office_365:*:*:*:*:*:*:*:*
+Office 16 Click-to-Run Licensing Component,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+NVIDIA Graphics Driver 466.42,NVIDIA Corporation,cpe:2.3:a:nvidia:binary_graphics_driver
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.26.28720,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.26.28720,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Node.js,Node.js Foundation,cpe:2.3:a:nodejs:nodejs:*:*:*:*:*:*:*:*
+Google Chrome,Google LLC,cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*
+Microsoft Edge,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Edge Update,,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Edge WebView2 Runtime,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Lenovo Vantage Service,Lenovo Group Ltd.,cpe:2.3:a:lenovo:vantage:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.26.28720,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft OneDrive,Microsoft Corporation,cpe:2.3:a:microsoft:onedrive:*:*:*:*:*:*:*:*
+Telegram Desktop version 3.7.1,Telegram FZ-LLC,"cpe:2.3:a:telegram_desktop:telegram_desktop:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio Code (User),Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Binary Ninja (remove only),"Vector 35, Inc.",cpe:2.3:a:vector35:binary_ninja:*:*:*:*:*:*:*:*
+Progress Telerik Fiddler Classic,Progress Software Corporation,cpe:2.3:a:progress:telerik_reporting:*:*:*:*:*:*:*:*
+Microsoft Teams,Microsoft Corporation,cpe:2.3:a:microsoft:teams:*:*:*:*:*:*:*:*
+radare2 version 4.3.1,radare.org,cpe:2.3:a:radare:radare2:*:*:*:*:*:*:*:*
+Python 3.7.9 (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+7-Zip 21.07 (x64),Igor Pavlov,cpe:2.3:a:igor_pavlov:7-zip:*:*:*:*:*:*:*:*
+Git,The Git Development Community,cpe:2.3:a:git:git:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2019 (64-bit),,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft SQL Server 2019 (64-bit),Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Notepad++ (64-bit x64),Notepad++ Team,cpe:2.3:a:notepad-plus-plus:notepad\ \:*:*:*:*:*:*:*:*
+VLC media player,VideoLAN,cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2014 Transact-SQL ScriptDom,Microsoft Corporation,cpe:2.3:a:microsoft:sql_server:*:*:*:*:*:*:*:*
+SQL Server 2019 Common Files,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Windows SDK for Windows Store Apps DirectX x64 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Java(TM) SE Development Kit 11.0.12 (64-bit),Oracle Corporation,cpe:2.3:a:oracle:java_se:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2019 Setup (English),Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft SQL Server 2014 Management Objects (x64),Microsoft Corporation,cpe:2.3:a:microsoft:sql_server:*:*:*:*:*:*:*:*
+SQL Server 2019 XEvent,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+SQL Server 2019 SQL Diagnostics,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft VSS Writer for SQL Server 2019,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64,Microsoft Corporation,"cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2019 T-SQL Language Service,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft Visual Studio 2015 Performance Collection Tools - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.24215,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Intel(R) Chipset Device Software,Intel Corporation,cpe:2.3:a:intel:chipset_device_software:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps DirectX x64 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding (x64),Microsoft,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Windows Software Development Kit DirectX x64 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2019 RsFx Driver,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft Visual Studio 2015 VsGraphics Helper Dependencies,Microsoft Corporation,"cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ IDE x64 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+SQL Server 2019 Database Engine Shared,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+SQL Server 2019 Shared Management Objects,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft Visual Studio 2015 Diagnostic Tools - amd64,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration (x64),Microsoft,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft SQL Server Compact 4.0 SP1 x64 ENU,Microsoft Corporation,cpe:2.3:a:microsoft:sql_server:*:*:*:*:*:*:*:*
+SQL Server 2019 DMF,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Visual Studio 2015 Prerequisites - ENU Language Pack,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+SQL Server 2019 Shared Management Objects Extensions,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Office 16 Click-to-Run Localization Component,Microsoft Corporation,"cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+"
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+SQL Server 2019 Connection Info,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft SQL Server 2012 Native Client,Microsoft Corporation,cpe:2.3:a:microsoft:sql_server::*:*:*:*:*:*:*:*
+Oracle VM VirtualBox 6.1.30,Oracle Corporation,cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*
+SQL Server 2019 Database Engine Services,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+NVIDIA Graphics Driver 457.49,NVIDIA Corporation,cpe:2.3:a:nvidia:binary_graphics_driver:*:*:*:*:*:*:*:*
+NVIDIA GeForce Experience 3.20.3.63,NVIDIA Corporation,cpe:2.3:a:nvidia:geforce_experience:*:*:*:*:*:*:*:*
+NVIDIA SHIELD Streaming,NVIDIA Corporation,cpe:2.3:a:nvidia:shield_experience:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding Language Pack (x64) - ENU,Microsoft,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK DirectX x64 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+SQL Server 2019 Batch Parser,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Visual Studio 2015 Prerequisites,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration Language Pack (x64) - ENU,Microsoft,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft System CLR Types for SQL Server 2014,Microsoft Corporation,cpe:2.3:a:microsoft:sql_server:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Performance Collection Tools,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Citrix Receiver 4.12,"Citrix Systems, Inc.",cpe:2.3:a:citrix:receiver:*:*:*:*:*:*:*:*
+Google Chrome,Google LLC,cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*
+Microsoft Edge,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Edge WebView2 Runtime,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Help Viewer 2.2,Microsoft Corporation,cpe:2.3:a:microsoft:help_file_viewer:*:*:*:*:*:*:*:*
+Nmap 7.92,Nmap Project,cpe:2.3:a:microsoft:nmap:*:*:*:*:*:*:*:*
+Npcap,Nmap Project,cpe:2.3:a:microsoft:npcap:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK 10.0.14393.0 - ARM,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 X86 Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library PGO X86 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Shell (Minimum),Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Compiler/Tools X64 Native Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal General MIDI DLS Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+WCF Data Services Tools for Microsoft Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Software Development Kit - Windows 10.0.15063.468,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers Libs Metadata,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python Launcher,Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Visual C++ IDE Windows Express Plus Package,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Team Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Application Insights Tools for Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ IDE Core Professional Plus Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+MSBuild/NuGet Integration 14.0 (x86),Microsoft Corporation,cpe:2.3:a:microsoft:nuget
+Microsoft Visual Studio 2015 Universal Windows App Development Tools,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X86 Redist Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft VisualStudio JavaScript Project System,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio 2015 Devenv Resources,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK ARM Desktop Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.1 SDK,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Windows Team Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X64 Desktop Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Redistributables,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X86 Desktop Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Library ATL Source Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+WinRT Intellisense Xbox Live Extension SDK - Other Languages,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.14.26429,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Team Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 XAML Application Timeline,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 X86 Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X86 X64 Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Professional Templates Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library ATL X86 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X86 ARM Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2014 Management Objects,Microsoft Corporation,cpe:2.3:a:microsoft:sql_server::*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU),Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Visual C++ Library PGO Headers Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.6 Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Microsoft NuGet - Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Mobile Extension SDK 10.0.10586.0 - ARM,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT Appx Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.6.1 SDK,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Visual C++ IDE Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium ARM Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft.VisualStudio.Office365,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Project and Item Templates for Visual Studio Express 2015 for Windows 10 - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Desktop Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT ARM Store Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 SDK - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio 2015 SDK Language Pack - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ MSBuild Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Project and Item Templates for Visual Studio Professionald 2015 - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+WebAdvisor by McAfee,"McAfee, LLC",cpe:2.3:a:mcafee:webadvisor:*:*:*:*:*:*:*:*
+Windows Software Development Kit for Windows Store Apps,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Blend for Visual Studio SDK for .NET 4.5,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio_.net:*:*:*:*:*:*:*:*
+Visual C++ Professional Items Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library ATL Headers Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 ARM Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Windows Diagnostic Tools,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft VisualStudio JavaScript Language Service,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+PreEmptive Analytics Visual Studio Components,PreEmptive Solutions,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Windows Software Development Kit - Windows 10.0.10586.212,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Professional Templates Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Phone 8.1 Tools for Visual Studio 2015 - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ MFC Items Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library MFC X64 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.6.1 Developer Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Microsoft SQL Server 2014 T-SQL Language Service,Microsoft Corporation,cpe:2.3:a:microsoft:sql_server
+Windows Mobile Extension SDK 10.0.10586.0 - x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium ARM Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft Corporations,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Profiling Tools,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK Desktop Libs arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Python Tools 2.2.6 for Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Professional Items Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X86 ARM Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ MSBuild ARM Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X86 X64 Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library CRT Redist Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Phone 8.1 Tools for Visual Studio Express 2015 for Windows,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ Library ATL ARM Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Azure Mobile Services Tools for Visual Studio - v1.4,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ Library PGO ARM Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Team Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5 Multi-Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 Native Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ IDE Professional Plus Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 ARM Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Community 2015 - ENU,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ IDE Optional MFC Support Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Phone 8.1 Tools for Visual Studio Professional 2015,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 ARM Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library ATL X64 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library MFC X86 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Browser for SQL Server 2019,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft .NET Native SDK Tools,Microsoft Corporation,cpe:2.3:a:microsoft:.net_core_sdk:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK 10.0.14393.0 - x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X64 Redist Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X86 Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers Libs,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers Libs Metadata,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 SDK - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Compiler/Tools X86 Native Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Universal General MIDI DLS Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+SDK ARM Additions,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26429,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ CRT Headers Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Metadata,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft Corporations,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Connected Services,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26429,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Citrix Receiver(USB),"Citrix Systems, Inc.",cpe:2.3:a:citrix:receiver:*:*:*:*:*:*:*:*
+Visual C++ Library CRT ARM OneCore For Desktop Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Community 2015 with Updates,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Services Hub,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ IDE Desktop Plus Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual Studio 2015 Update 3 (KB3022398),Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Team Explorer for Microsoft Visual Studio 2015 Update 3.1,Microsoft,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Compiler/Tools X86 Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Shell (Minimum) Resources,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Desktop Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ IDE Core Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ MFC Items Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 XAML Visual Diagnostics for Windows Store,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK Modern Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Update for Microsoft Visual Studio 2015 (KB3165756),Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+WiX Toolset v3.11 Managed SDK,.NET Foundation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.6.1 Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual Studio Graphics Analyzer,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ MSBuild X86 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+SDK Debuggers,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.6.1 Targeting Pack (ENU),Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 Base Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Preparation,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK Desktop Headers Libs Metadata,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 Native Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Citrix Receiver(DV),"Citrix Systems, Inc.",cpe:2.3:a:citrix:receiver:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 X64 Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT ARM Redist Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Managed Apps Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft Corporations,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library MFC Headers Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 X64 Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Software Development Kit,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X86 Native Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Expression Blend SDK for .NET 4,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library MFC Source Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Test Tools for Microsoft Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Library CRT Source Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Software Development Kit DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU),Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU,Microsoft,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual Studio 2012 Verification SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ IDE Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft Corporations,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio 2015 SDK - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK for Windows Store Apps Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 Native Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio 2015 XAML Designer - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Compiler/Tools Premium X86 ARM Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 ARM Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Universal General MIDI DLS Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Intel(R) Chipset Device Software,Intel(R) Corporation,cpe:2.3:a:intel:chipset_device_software:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 ARM Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Agents for Visual Studio 2015 Preview - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft .NET Framework 4.6 SDK,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+TypeScript Tools for Microsoft Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Mobile Extension SDK 10.0.10240.0 - x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ IDE Optional Desktop Support Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Blend for Visual Studio 2015 - ENU,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Visual C++ IDE Common Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ IDE Professional Plus Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Citrix Receiver (HDX Flash Redirection),"Citrix Systems, Inc.",cpe:2.3:a:citrix:receiver:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X86 Store Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library MFC MBCS Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 XAML Application Timeline - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Team Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 Native Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X86 Native Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ IDE Professional Core Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 X86 Cross Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library CRT Appx Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.7 Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Agents for Visual Studio 2015 Preview,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK Desktop Headers arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+WiX Toolset v3.11 Native 2012 SDK,.NET Foundation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ IDE Optional XP Support Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4 Multi-Targeting Pack,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Windows Team Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ MSBuild Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU),Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+SDK ARM Redistributables,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Citrix Receiver(Aero),"Citrix Systems, Inc.",cpe:2.3:a:citrix:receiver:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK 10.0.10240.0 - ARM,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Blend for Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft .NET Native SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 XAML Designer,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Team Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Community 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Professional Windows UAP Templates Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X64 Store Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK 10.0.15063.0 - ARM,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Signing Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft .NET Core 5.0 SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual F# 4.0 SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ IDE Debugger Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Test Tools Language Pack - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Visual C++ Library PGO X64 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Team Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Software Development Kit - Windows 10.0.26624,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Facade Windows WinMD Versioned,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X86 OneCore For Desktop Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs arm,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools X64 Base Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ IDE Desktop Plus Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ MSBuild X64 Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Library CRT ARM Desktop Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ IDE Common Resource Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Phone 8.1 Tools for Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Software Development Kit - Windows 10.0.14393.33,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ Library CRT X64 OneCore For Desktop Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Visual C++ Compiler/Tools Premium X64 X86 Cross Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Modern Non-Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Visual C++ IDE Debugger Package,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4.7 SDK,Microsoft Corporation,cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
+Windows SDK Modern Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK 10.0.15063.0 - x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Devenv,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Microsoft Visual Studio 2015 XAML Visual Diagnostics,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK for Windows Store Apps DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Zoom,"Zoom Video Communications, Inc.",cpe:2.3:a:zoom:zoom:*:*:*:*:*:*:*:*
+Telegram Desktop,Telegram FZ-LLC,"cpe:2.3:a:telegram_desktop:telegram_desktop:*:*:*:*:*:*:*:*
+"
+Telegram Desktop version 3.6.1,Telegram FZ-LLC,"cpe:2.3:a:telegram_desktop:telegram_desktop:*:*:*:*:*:*:*:*
+"
+Python 3.10.3 Test Suite (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 Executables (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 Tcl/Tk Support (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 Standard Library (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 Development Libraries (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 Core Interpreter (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 pip Bootstrap (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Java(TM) SE Development Kit 17.0.2 (64-bit),Oracle Corporation,cpe:2.3:a:oracle:java_se:*:*:*:*:*:*:*:*
+Python 3.10.3 Utility Scripts (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.10.3 Documentation (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Edge,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+PyCharm 2021.3.3,JetBrains s.r.o.,cpe:2.3:a:pycharm:pycharm:*:*:*:*:*:*:*:*
+Python 3.10.3 (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+McAfee LiveSafe,"McAfee, LLC",cpe:2.3:a:mcafee:livesafe:*:*:*:*:*:*:*:*
+Microsoft 365 - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office_365:*:*:*:*:*:*:*:*
+Microsoft Edge WebView2 Runtime,Microsoft Corporation,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Telegram Desktop version 3.7,Telegram FZ-LLC,"cpe:2.3:a:telegram_desktop:telegram_desktop:*:*:*:*:*:*:*:*
+"
+Microsoft Office Home and Student 2016 - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Mozilla Firefox (x64 en-US),Mozilla,cpe:2.3:a:mozilla:firefox:*:*:*:*:*:*:*:*
+Microsoft OneNote - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office_onenote:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Executables (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+DiagnosticsHub_CollectionService,Microsoft Corporation,cpe:2.3:a:microsoft:office_windows_diagnostics_hub:*:*:*:*:*:*:*:*
+7-Zip 21.07 (x64 edition),Igor Pavlov,cpe:2.3:a:7-Zip:7-Zip:*:*:*:*:*:*:*:*
+vs_communityx64msi,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio_community:*:*:*:*:*:*:*:*
+Dell SupportAssist Remediation,Dell Inc.,cpe:2.3:a:dell:supportassist:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Core Interpreter (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Dell Update for Windows Universal,Dell Inc.,cpe:2.3:a:dell:system_update:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Documentation (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft System CLR Types for SQL Server 2019,Microsoft Corporation,"
+cpe:2.3:a:microsoft:sql_server_2019_reporting_services:*:*:*:*:*:*:*:*"
+Microsoft Visual Studio Installer,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Development Libraries (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Dell SupportAssist OS Recovery Plugin for Dell Update,Dell Inc.,cpe:2.3:a:dell:system_update
+Office 16 Click-to-Run Localization Component,Microsoft Corporation,"cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+"
+Node.js,Node.js Foundation,cpe:2.3:a:nodejs:nodejs:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Tcl/Tk Support (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Adobe Acrobat DC (64-bit),Adobe,cpe:2.3:a:adobe:acrobat_dc:*:*:*:*:*:*:*:*
+Python 3.11.0a5 pip Bootstrap (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Utility Scripts (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Windows SDK DirectX x64 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Standard Library (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Python 3.11.0a5 Test Suite (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Visual Studio Community 2022,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio_community:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows SDK for Windows Store Apps DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs arm,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Metadata,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Facade Windows WinMD Versioned,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK DirectX x86 Remote,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Modern Non-Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Redistributables,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2015,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows IoT Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Dell Digital Delivery Services,Dell Inc.,cpe:2.3:a:dell:digital_delivery
+Windows Team Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+SDK ARM Redistributables,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Mobile Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x86,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK ARM Desktop Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Application Insights Tools for Visual Studio 2015,Microsoft Corporation,"
+cpe:2.3:a:microsoft:visual_studio_2015:*:*:*:*:*:*:*:*
+"
+Windows Desktop Extension SDK Contracts,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft Corporations,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Universal General MIDI DLS Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Setup WMI Provider,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Windows SDK Signing Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Setup Configuration,Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Python Launcher,Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Team Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows Desktop Extension SDK,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Realtek Audio Driver,Realtek Semiconductor Corp.,cpe:2.3:a:realtek:realtek_media_player
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30704,Microsoft Corporation,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x64,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK Modern Versioned Developer Tools,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+SDK ARM Additions,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Managed Apps Libs,Microsoft Corporation,cpe:2.3:a:microsoft:sdk:*:*:*:*:*:*:*:*
+SourceTree,Atlassian,"
+cpe:2.3:a:atlassian:sourcetree"
+Microsoft Visual Studio Code (User),Microsoft Corporation,cpe:2.3:a:microsoft:visual_studio:*:*:*:*:*:*:*:*
+Python 3.11.0a5 (64-bit),Python Software Foundation,cpe:2.3:a:python_software_foundation:python:*:*:*:*:*:*:*:*
+Microsoft Office Home and Student 2016 - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office:*:*:*:*:*:*:*:*
+Microsoft OneNote - en-us,Microsoft Corporation,cpe:2.3:a:microsoft:office_onenote:*:*:*:*:*:*:*:*
